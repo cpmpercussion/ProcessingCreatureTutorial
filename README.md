@@ -47,7 +47,7 @@ Here's an example of my creature - the "BlueBot":
     rect(pos_x + 120, pos_y - 80,20,20);
     rect(pos_x + 260, pos_y - 80,20,20);
 
-And here's what it looks like:
+And [here's what it looks like:](http://www.openprocessing.org/visuals/?visualID=180992)
 
 <iframe width="428" height="680" scrolling="no" frameborder="0" src="http://www.openprocessing.org/sketch/180992/embed/?width=400&height=600&border=true"></iframe>
 
@@ -123,6 +123,8 @@ Here's an example that I put together called "BlueBot Bob" - this little guy bob
      drag_y_factor = 3 * (pmouseY - mouseY);
      
     }
+
+[Here's my bobbing BlueBot!](http://www.openprocessing.org/visuals/?visualID=180993)
 
 <iframe width="628" height="880" scrolling="no" frameborder="0" src="http://www.openprocessing.org/sketch/180993/embed/?width=600&height=800&border=true"></iframe>
 
